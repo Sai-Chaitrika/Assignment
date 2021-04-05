@@ -38,7 +38,7 @@ Test Strategy:Steps(ITDS)
 Test plan:
 =========
 
-   1)Test item:- Application name
+   1)Test item:- E-commerce
    2)Software risk issues:- Security,performance
    3)Features to be tested(user stories):- Register users,manager and member function,Admin Funtions
    4)Features not to be tested:- new version(which is not a scope)
